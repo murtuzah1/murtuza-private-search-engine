@@ -4,7 +4,7 @@ A personal, privacy-focused metasearch engine built using **SearXNG and Docker**
 
 ## 📸 Project Screenshot
 
-![Murtuza Private Search Engine](screenshots/searxng-search-results.png)
+![Murtuza Private Search Engine](searxng-search-results.png.png)
 
 ## 📌 About the Project
 
