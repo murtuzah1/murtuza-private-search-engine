@@ -66,3 +66,7 @@ Search engines used by the instance may still receive search queries. Privacy al
 **Mirza Murtuza Hussain**
 
 IT Engineering Student | Aspiring Software Developer
+
+## 🏗️ Project Architecture
+
+Read the [Architecture Documentation](architecture.md) to understand how the application works, how Docker runs SearXNG, and how search requests flow through the system.
